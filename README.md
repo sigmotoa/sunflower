@@ -1,7 +1,7 @@
 # Android Sunflower with Compose edited by @sigmotoa for the GINOSKO crew
 
 A gardening app illustrating Android development best practices with migrating
-a View-based app to Jetpack Compose.
+a View-based app to Jetpack Compose and eddited by sigmotoa.
 
 **To learn about how Sunflower was migrated to Compose, see the [migration journey](docs/MigrationJourney.md) document.**
 
